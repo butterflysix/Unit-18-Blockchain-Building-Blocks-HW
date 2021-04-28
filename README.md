@@ -34,7 +34,7 @@
 
          | <img src="/screenshots/puppeth_config_2.png" width="300" height="175"> |<img src="/screenshots/puppeth_config_3.png" width="300" height="175"> |
          |:--: |:--:| 
-         |View Full Size Python [Screenshot](/screenshots/puppeth_config_2.png)  |View Full Size Python [Screenshot](/screenshots/puppeth_config_3.png)|
+         |[View Full Size Python Screenshot](/screenshots/puppeth_config_2.png)  |[View Full Size Python Screenshot](/screenshots/puppeth_config_3.png)|
 
 ### Step Two: Initialize the Two Nodes
 1. Initialize the nodes with the genesis' json file.
@@ -73,4 +73,4 @@
 
       | <img src="/screenshots/mycrypto_tx_status.png" width="300" height="175"> |
       |:--:|
-      |View Full Size MyCrypto [Screenshot](/screenshots/mycrypto_tx_status.png)|
+      |[View Full Size MyCrypto Screenshot](/screenshots/mycrypto_tx_status.png)|
