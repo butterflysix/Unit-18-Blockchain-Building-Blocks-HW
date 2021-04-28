@@ -13,7 +13,7 @@
             
               | <img src="/screenshots/puppeth_config_1.jpg" width="300" height="175"> |
               |:--:|
-              |View Full Size Python [Screenshot](/screenshots/puppeth_config_1.jpg)|
+              | [View Full Size Python Screenshot](/screenshots/puppeth_config_1.jpg)|
          
 2. Generate the genesis block.
     * Open a terminal window, navigate to the `Project` folder and type the following command:
